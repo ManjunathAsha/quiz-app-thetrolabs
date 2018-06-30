@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+select {
+       display: block;
+       margin: 0 auto;
+       background-color: #2A3F54;
+   }
+
+btn-margin{
+display: flex ;
+justify-content: center;
+}
+
+
+badge-correct{
+background-color :green;
+}
+
+badge-incorrect{
+background-color:red;
+}
